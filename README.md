@@ -48,6 +48,22 @@ Current / planned widget functionality includes:
 * Keyboard accessibility
 * Tailwind-based custom styling
 
+## Not Sure What to Ask AMI?
+
+No stress — here are a few good places to start:
+
+* **“What whitening packages do you offer?”**
+* **“How much does teeth whitening cost?”**
+* **“Where is your Johannesburg branch?”**
+* **“How long does a whitening session take?”**
+* **“How do I make a booking?”**
+* **“Do prices differ between branches?”**
+* **“Which services does The Smile Bar offer?”**
+
+AMI is designed to understand natural questions, so you do not need to use exact wording.
+
+Just ask the way you normally would.
+
 ---
 
 ## AI Behaviour and Guardrails

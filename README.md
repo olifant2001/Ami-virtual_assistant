@@ -3,9 +3,7 @@
 AMI is a voice-first AI assistant built for **The Smile Bar** using ElevenLabs, React, TypeScript, Vite, and Tailwind CSS.
 
 The project was created as part of an AI engineering assignment focused on building an ElevenLabs-powered agent using public website content as its primary knowledge source, then integrating that agent into a custom web widget.
-
 ![AMI Voice Widget](./public/ami-widget.png)
-
 ## Preview
 
 Add a screenshot of the finished widget here once available.
